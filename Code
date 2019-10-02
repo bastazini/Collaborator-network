@@ -91,8 +91,11 @@ colaboracoes=graph.formula(
 plot(colaboracoes, vertex.shape="none",edge.arrow.size=.5, vertex.label=V(colaboracoes)$media, 
      vertex.label.font=2, vertex.label.color="grey45",
      vertex.label.cex=0.8, edge.color="grey45")
+###Gerar grupos
 ceb=cluster_edge_betweenness(colaboracoes)
+###Editar grupos
 ceb=edit(ceb)
+par(mar=c(0.5,0.5,0.5,0.5))
 plot(ceb,colaboracoes,vertex.label.color="black")
 hub_score(colaboracoes)
 authority_score(colaboracoes)
