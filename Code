@@ -1,4 +1,4 @@
-###pacakges
+###Loading pacakges
 require(igraph)
 
 ###List of collaborators
@@ -90,7 +90,11 @@ colaboracoes=graph.formula(
   Vizentin.Bugoni--Debastiani,
   Vizentin.Bugoni--Maruyama,
   Vizentin.Bugoni--Sperry
+  #Dias--Knopp,
+  #Dias--Bonow,
+  #Franz--Vinicius,
   )
+
 ###Simple plot  
 plot(colaboracoes, vertex.shape="none",edge.arrow.size=.5, vertex.label=V(colaboracoes)$media, 
      vertex.label.font=2, vertex.label.color="grey45",
