@@ -93,6 +93,8 @@ colaboracoes=graph.formula(
   Dias--Knopp,
   Dias--Bonow,
   #Franz--Vinicius,
+  #Chiarani--Vinicius,
+  #Fontana--Vinicius
   )
 
 ###Simple plot  
