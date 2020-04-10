@@ -95,7 +95,8 @@ colaboracoes=graph.formula(
   #Franz--Vinicius,
   #Chiarani--Vinicius,
   #Fontana--Vinicius
-  #Rosas et al.--Vinicius
+  Rosas et al.--Vinicius,
+  Santos et al.--Vinicius
   )
 
 ###Simple plot  
