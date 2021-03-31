@@ -92,11 +92,20 @@ colaboracoes=graph.formula(
   Vizentin.Bugoni--Sperry,
   Dias--Knopp,
   Dias--Bonow,
-  #Franz--Vinicius,
-  #Chiarani--Vinicius,
-  #Fontana--Vinicius
+  Franz--Vinicius,
+  Chiarani--Vinicius,
+  Fontana--Vinicius,
+  Boldrini--Vinicius,
+  Montoya--Vinicius,
+  Galiana--Vinicius,
+  Hillebrand--Vinicius,
+  Estiarte--Vinicius,
+  Peñuelas--Vinicius,
+  Ogaya--Vinicius,
+  Sommer--Vinicius,
   Rosas_et_al.--Vinicius,
-  Santos_et_al.--Vinicius
+  Santos_et_al.--Vinicius,
+  Nagy-Reis_et_al.--Vinicius,
   )
 
 ###Simple plot  
