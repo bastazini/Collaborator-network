@@ -108,7 +108,31 @@ colaboracoes=graph.formula(
   Debastiani--Pillar,
   Rosas_et_al.--Vinicius,
   Santos_et_al.--Vinicius,
-  Nagy_Reis_et_al.--Vinicius
+  Nagy_Reis_et_al.--Vinicius,
+  Galiana-- Lurgi,
+Galiana-- Vinicius,
+Galiana-- Bosch,
+Galiana-- Cagnolo,
+Galiana-- Cazelles,
+Galiana-- Claramunt-López,
+Galiana—Emer,
+Galiana-- Fortin,
+Galiana-- Hernández-Castellano,
+Galiana-- McCann,
+Galiana-- Montoya,
+Galiana-- D.Montoya,
+Galiana-- Mulder,
+Galiana-- Osorio-Canadas,
+Galiana-- Reverté,
+Galiana-- Rodrigo,
+Galiana-- Steffan-Dewenter,
+Galiana—Travaset,
+Galiana—Valverde,
+Galiana—Vazquez,
+Galiana-- Wood,
+Galiana—Roslin,
+Galiana—Gravel,
+Galiana-- Thuiller
   )
 
 ###Simple plot  
