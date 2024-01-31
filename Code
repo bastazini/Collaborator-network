@@ -109,7 +109,7 @@ colaboracoes=graph.formula(
   Rosas_et_al.--Vinicius,
   Santos_et_al.--Vinicius,
   Nagy_Reis_et_al.--Vinicius,
-  Galiana -- Lurgi,
+  Galiana--Lurgi,
   Galiana -- Vinicius,
   Galiana -- Bosch,
   Galiana -- Cagnolo,
@@ -134,7 +134,10 @@ colaboracoes=graph.formula(
   Galiana -- Gravel,
   Galiana -- Thuiller,
   Debastiani -- Pillar,
-  Debastiani -- Vinicius
+  Debastiani -- Vinicius,
+  Biz -- Vinicius,
+  Biz -- Carvalho,
+  Biz -- Pereira
 )
 
 ###Simple plot  
