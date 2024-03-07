@@ -133,7 +133,9 @@ colaboracoes=graph.formula(
   Debastiani -- Vinicius,
   Biz -- Vinicius,
   Biz -- Carvalho,
-  Biz -- Pereira
+  Biz -- Pereira,
+  Mestre -- Vinicius,
+  Mestre -- Ascensão
 )
 
 ###Simple plot  
