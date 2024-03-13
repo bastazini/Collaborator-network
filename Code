@@ -135,7 +135,8 @@ colaboracoes=graph.formula(
   Biz -- Carvalho,
   Biz -- Pereira,
   Mestre -- Vinicius,
-  Mestre -- Ascensão
+  Mestre -- Ascensão,
+  Mestre -- Quiles,
 )
 
 ###Simple plot  
